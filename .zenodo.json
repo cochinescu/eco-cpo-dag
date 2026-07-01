@@ -1,0 +1,22 @@
+{
+  "title": "ECO/CPO-DAG: Reference Implementation",
+  "upload_type": "software",
+  "description": "Reference implementation of the ECO/CPO-DAG contradiction-based accountability layer for adversarial supply chains, accompanying the paper. Includes the ecodag protocol package (Event Claim Objects, Contradiction Proof Objects, the five EPCIS 2.0 constraint predicates, blame resolution, and a zero-knowledge quantity range proof), a standalone independently-citable contradiction benchmark, a seed-reproducible measured evaluation (scripts/reproduce.py + results/), and the test suite. Honesty notes: commitments/ZK run over a MODP integer group with a naive Sigma protocol (a conservative upper bound, not curve-based Bulletproofs); hashing is BLAKE2b; all traces are synthetic.",
+  "creators": [
+    {
+      "name": "Cochinescu, Sebastian",
+      "affiliation": "University of Bucharest"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "supply chain accountability",
+    "contradiction detection",
+    "GS1 EPCIS",
+    "provenance",
+    "zero-knowledge proofs",
+    "cryptoeconomics",
+    "directed acyclic graph"
+  ]
+}

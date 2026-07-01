@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "ECO/CPO-DAG: Reference Implementation"
+message: "If you use this software, please cite it using these metadata."
+type: software
+authors:
+  - family-names: Cochinescu
+    given-names: Sebastian
+    affiliation: University of Bucharest
+license: MIT
+version: 1.0.1
+date-released: 2026-07-01
+repository-code: "https://github.com/cochinescu/eco-cpo-dag"
+keywords:
+  - supply chain accountability
+  - contradiction detection
+  - GS1 EPCIS
+  - provenance
+  - zero-knowledge proofs
