@@ -6,8 +6,9 @@ authors:
   - family-names: Cochinescu
     given-names: Sebastian
     affiliation: University of Bucharest
+    orcid: "https://orcid.org/0009-0006-1436-4819"
 license: MIT
-version: 1.0.1
+version: 1.0.2
 date-released: 2026-07-01
 repository-code: "https://github.com/cochinescu/eco-cpo-dag"
 keywords:
