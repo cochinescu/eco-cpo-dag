@@ -107,10 +107,10 @@ The data and code in this directory are released under **CC BY 4.0**
 
 ## Citation
 
-> S. Cochinescu. *ECO/CPO-DAG Contradiction Benchmark v1.0.* Zenodo,
-> [BENCHMARK-DOI]. Accompanies *ECO/CPO-DAG: A Contradiction-Based
-> Accountability Layer for Adversarial Supply Chains.*
+> S. Cochinescu. *ECO/CPO-DAG Contradiction Benchmark v1.0.* Zenodo, 2026.
+> <https://doi.org/10.5281/zenodo.21114601>. Accompanies *ECO/CPO-DAG: A
+> Contradiction-Based Accountability Layer for Adversarial Supply Chains.*
 
-Replace `[BENCHMARK-DOI]` after minting a Zenodo DOI for this directory (kept
-separate from the code repository's DOI so the benchmark is independently
-citable).
+The benchmark has its own Zenodo DOI (`10.5281/zenodo.21114601`), separate from
+the code repository's DOI (`10.5281/zenodo.21114384`), so it is independently
+citable.
