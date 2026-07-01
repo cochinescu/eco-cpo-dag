@@ -112,5 +112,5 @@ The data and code in this directory are released under **CC BY 4.0**
 > Contradiction-Based Accountability Layer for Adversarial Supply Chains.*
 
 The benchmark has its own Zenodo DOI (`10.5281/zenodo.21114601`), separate from
-the code repository's DOI (`10.5281/zenodo.21114384`), so it is independently
+the code repository's concept DOI (`10.5281/zenodo.21114383`), so it is independently
 citable.
