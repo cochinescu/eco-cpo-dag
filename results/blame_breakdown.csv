@@ -1,0 +1,12 @@
+metric,value
+self_equivocation,52
+monotonic,7
+bottom,11
+slash_total,59
+false_slashes,0
+false_positives,0
+produced_cpos,280
+true_positive_cpos,280
+n_injected,70
+n_detected,70
+precision,1.0000

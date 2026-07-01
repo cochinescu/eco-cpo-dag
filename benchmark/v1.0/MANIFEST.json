@@ -1,0 +1,20 @@
+{
+  "benchmarkVersion": "1.0",
+  "nBottomExpected": 29,
+  "nContradictions": 240,
+  "nEvents": 3480,
+  "nSlashExpected": 211,
+  "params": {
+    "base_events_per_subject": 6,
+    "injection_rate": 0.5,
+    "n_participants": 8,
+    "n_subjects": 500,
+    "seed": 0
+  },
+  "schemaVersion": "1.0",
+  "seed": 0,
+  "sha256": {
+    "events.jsonld": "0ab4f4a0f7460b393d42996ffc39ca7da8320df90e3068bc011efc5d7c5856f0",
+    "labels.json": "3e4e3af5009a807ef6a1084c016fb7629a2ae44dc0a973649dac5d5f4d729247"
+  }
+}

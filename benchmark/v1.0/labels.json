@@ -1,0 +1,1926 @@
+{
+  "contradictions": [
+    {
+      "a_index": 18,
+      "adversarial": true,
+      "b_index": 19,
+      "expected": "slash",
+      "id": 0,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 26,
+      "adversarial": true,
+      "b_index": 27,
+      "expected": "slash",
+      "id": 1,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 34,
+      "adversarial": true,
+      "b_index": 35,
+      "expected": "slash",
+      "id": 2,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 48,
+      "adversarial": true,
+      "b_index": 49,
+      "expected": "slash",
+      "id": 3,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 56,
+      "adversarial": false,
+      "b_index": 57,
+      "expected": "bottom",
+      "id": 4,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 76,
+      "adversarial": true,
+      "b_index": 77,
+      "expected": "slash",
+      "id": 5,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 96,
+      "adversarial": true,
+      "b_index": 97,
+      "expected": "slash",
+      "id": 6,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 110,
+      "adversarial": true,
+      "b_index": 111,
+      "expected": "slash",
+      "id": 7,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 118,
+      "adversarial": true,
+      "b_index": 119,
+      "expected": "slash",
+      "id": 8,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 132,
+      "adversarial": true,
+      "b_index": 133,
+      "expected": "slash",
+      "id": 9,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 140,
+      "adversarial": true,
+      "b_index": 141,
+      "expected": "slash",
+      "id": 10,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 160,
+      "adversarial": false,
+      "b_index": 161,
+      "expected": "bottom",
+      "id": 11,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 180,
+      "adversarial": true,
+      "b_index": 181,
+      "expected": "slash",
+      "id": 12,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 188,
+      "adversarial": true,
+      "b_index": 189,
+      "expected": "slash",
+      "id": 13,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 208,
+      "adversarial": true,
+      "b_index": 209,
+      "expected": "slash",
+      "id": 14,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 216,
+      "adversarial": true,
+      "b_index": 217,
+      "expected": "slash",
+      "id": 15,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 242,
+      "adversarial": true,
+      "b_index": 243,
+      "expected": "slash",
+      "id": 16,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 286,
+      "adversarial": false,
+      "b_index": 287,
+      "expected": "bottom",
+      "id": 17,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 306,
+      "adversarial": true,
+      "b_index": 307,
+      "expected": "slash",
+      "id": 18,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 332,
+      "adversarial": true,
+      "b_index": 333,
+      "expected": "slash",
+      "id": 19,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 340,
+      "adversarial": true,
+      "b_index": 341,
+      "expected": "slash",
+      "id": 20,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 348,
+      "adversarial": true,
+      "b_index": 349,
+      "expected": "slash",
+      "id": 21,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 356,
+      "adversarial": true,
+      "b_index": 357,
+      "expected": "slash",
+      "id": 22,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 388,
+      "adversarial": true,
+      "b_index": 389,
+      "expected": "slash",
+      "id": 23,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 402,
+      "adversarial": true,
+      "b_index": 403,
+      "expected": "slash",
+      "id": 24,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 410,
+      "adversarial": true,
+      "b_index": 411,
+      "expected": "slash",
+      "id": 25,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 418,
+      "adversarial": true,
+      "b_index": 419,
+      "expected": "slash",
+      "id": 26,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 426,
+      "adversarial": true,
+      "b_index": 427,
+      "expected": "slash",
+      "id": 27,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 434,
+      "adversarial": true,
+      "b_index": 435,
+      "expected": "slash",
+      "id": 28,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 442,
+      "adversarial": true,
+      "b_index": 443,
+      "expected": "slash",
+      "id": 29,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 462,
+      "adversarial": true,
+      "b_index": 463,
+      "expected": "slash",
+      "id": 30,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 476,
+      "adversarial": true,
+      "b_index": 477,
+      "expected": "slash",
+      "id": 31,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 484,
+      "adversarial": true,
+      "b_index": 485,
+      "expected": "slash",
+      "id": 32,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 504,
+      "adversarial": true,
+      "b_index": 505,
+      "expected": "slash",
+      "id": 33,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 512,
+      "adversarial": true,
+      "b_index": 513,
+      "expected": "slash",
+      "id": 34,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 520,
+      "adversarial": true,
+      "b_index": 521,
+      "expected": "slash",
+      "id": 35,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 528,
+      "adversarial": true,
+      "b_index": 529,
+      "expected": "slash",
+      "id": 36,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 536,
+      "adversarial": true,
+      "b_index": 537,
+      "expected": "slash",
+      "id": 37,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 556,
+      "adversarial": false,
+      "b_index": 557,
+      "expected": "bottom",
+      "id": 38,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 564,
+      "adversarial": true,
+      "b_index": 565,
+      "expected": "slash",
+      "id": 39,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 578,
+      "adversarial": true,
+      "b_index": 579,
+      "expected": "slash",
+      "id": 40,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 592,
+      "adversarial": true,
+      "b_index": 593,
+      "expected": "slash",
+      "id": 41,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 612,
+      "adversarial": false,
+      "b_index": 613,
+      "expected": "bottom",
+      "id": 42,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 620,
+      "adversarial": true,
+      "b_index": 621,
+      "expected": "slash",
+      "id": 43,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 628,
+      "adversarial": true,
+      "b_index": 629,
+      "expected": "slash",
+      "id": 44,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 636,
+      "adversarial": true,
+      "b_index": 637,
+      "expected": "slash",
+      "id": 45,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 644,
+      "adversarial": false,
+      "b_index": 645,
+      "expected": "bottom",
+      "id": 46,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 658,
+      "adversarial": true,
+      "b_index": 659,
+      "expected": "slash",
+      "id": 47,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 666,
+      "adversarial": true,
+      "b_index": 667,
+      "expected": "slash",
+      "id": 48,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 674,
+      "adversarial": false,
+      "b_index": 675,
+      "expected": "bottom",
+      "id": 49,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 682,
+      "adversarial": true,
+      "b_index": 683,
+      "expected": "slash",
+      "id": 50,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 702,
+      "adversarial": true,
+      "b_index": 703,
+      "expected": "slash",
+      "id": 51,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 722,
+      "adversarial": true,
+      "b_index": 723,
+      "expected": "slash",
+      "id": 52,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 730,
+      "adversarial": true,
+      "b_index": 731,
+      "expected": "slash",
+      "id": 53,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 738,
+      "adversarial": false,
+      "b_index": 739,
+      "expected": "bottom",
+      "id": 54,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 770,
+      "adversarial": false,
+      "b_index": 771,
+      "expected": "bottom",
+      "id": 55,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 778,
+      "adversarial": true,
+      "b_index": 779,
+      "expected": "slash",
+      "id": 56,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 786,
+      "adversarial": true,
+      "b_index": 787,
+      "expected": "slash",
+      "id": 57,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 800,
+      "adversarial": true,
+      "b_index": 801,
+      "expected": "slash",
+      "id": 58,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 862,
+      "adversarial": true,
+      "b_index": 863,
+      "expected": "slash",
+      "id": 59,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 870,
+      "adversarial": false,
+      "b_index": 871,
+      "expected": "bottom",
+      "id": 60,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 878,
+      "adversarial": true,
+      "b_index": 879,
+      "expected": "slash",
+      "id": 61,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 892,
+      "adversarial": false,
+      "b_index": 893,
+      "expected": "bottom",
+      "id": 62,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 900,
+      "adversarial": true,
+      "b_index": 901,
+      "expected": "slash",
+      "id": 63,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 908,
+      "adversarial": true,
+      "b_index": 909,
+      "expected": "slash",
+      "id": 64,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 916,
+      "adversarial": true,
+      "b_index": 917,
+      "expected": "slash",
+      "id": 65,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 930,
+      "adversarial": true,
+      "b_index": 931,
+      "expected": "slash",
+      "id": 66,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 944,
+      "adversarial": true,
+      "b_index": 945,
+      "expected": "slash",
+      "id": 67,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 982,
+      "adversarial": true,
+      "b_index": 983,
+      "expected": "slash",
+      "id": 68,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 1002,
+      "adversarial": true,
+      "b_index": 1003,
+      "expected": "slash",
+      "id": 69,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1016,
+      "adversarial": true,
+      "b_index": 1017,
+      "expected": "slash",
+      "id": 70,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1030,
+      "adversarial": false,
+      "b_index": 1031,
+      "expected": "bottom",
+      "id": 71,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 1038,
+      "adversarial": true,
+      "b_index": 1039,
+      "expected": "slash",
+      "id": 72,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 1046,
+      "adversarial": true,
+      "b_index": 1047,
+      "expected": "slash",
+      "id": 73,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 1060,
+      "adversarial": true,
+      "b_index": 1061,
+      "expected": "slash",
+      "id": 74,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1068,
+      "adversarial": true,
+      "b_index": 1069,
+      "expected": "slash",
+      "id": 75,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1076,
+      "adversarial": true,
+      "b_index": 1077,
+      "expected": "slash",
+      "id": 76,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1084,
+      "adversarial": false,
+      "b_index": 1085,
+      "expected": "bottom",
+      "id": 77,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 1098,
+      "adversarial": true,
+      "b_index": 1099,
+      "expected": "slash",
+      "id": 78,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1112,
+      "adversarial": true,
+      "b_index": 1113,
+      "expected": "slash",
+      "id": 79,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1144,
+      "adversarial": true,
+      "b_index": 1145,
+      "expected": "slash",
+      "id": 80,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1152,
+      "adversarial": false,
+      "b_index": 1153,
+      "expected": "bottom",
+      "id": 81,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 1172,
+      "adversarial": true,
+      "b_index": 1173,
+      "expected": "slash",
+      "id": 82,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1186,
+      "adversarial": true,
+      "b_index": 1187,
+      "expected": "slash",
+      "id": 83,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 1200,
+      "adversarial": true,
+      "b_index": 1201,
+      "expected": "slash",
+      "id": 84,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1214,
+      "adversarial": false,
+      "b_index": 1215,
+      "expected": "bottom",
+      "id": 85,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 1222,
+      "adversarial": true,
+      "b_index": 1223,
+      "expected": "slash",
+      "id": 86,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 1242,
+      "adversarial": true,
+      "b_index": 1243,
+      "expected": "slash",
+      "id": 87,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1250,
+      "adversarial": true,
+      "b_index": 1251,
+      "expected": "slash",
+      "id": 88,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 1276,
+      "adversarial": true,
+      "b_index": 1277,
+      "expected": "slash",
+      "id": 89,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 1284,
+      "adversarial": true,
+      "b_index": 1285,
+      "expected": "slash",
+      "id": 90,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1334,
+      "adversarial": true,
+      "b_index": 1335,
+      "expected": "slash",
+      "id": 91,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1342,
+      "adversarial": true,
+      "b_index": 1343,
+      "expected": "slash",
+      "id": 92,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 1356,
+      "adversarial": true,
+      "b_index": 1357,
+      "expected": "slash",
+      "id": 93,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 1364,
+      "adversarial": true,
+      "b_index": 1365,
+      "expected": "slash",
+      "id": 94,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 1384,
+      "adversarial": false,
+      "b_index": 1385,
+      "expected": "bottom",
+      "id": 95,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 1398,
+      "adversarial": true,
+      "b_index": 1399,
+      "expected": "slash",
+      "id": 96,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 1406,
+      "adversarial": true,
+      "b_index": 1407,
+      "expected": "slash",
+      "id": 97,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 1414,
+      "adversarial": true,
+      "b_index": 1415,
+      "expected": "slash",
+      "id": 98,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1422,
+      "adversarial": true,
+      "b_index": 1423,
+      "expected": "slash",
+      "id": 99,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 1448,
+      "adversarial": true,
+      "b_index": 1449,
+      "expected": "slash",
+      "id": 100,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 1456,
+      "adversarial": true,
+      "b_index": 1457,
+      "expected": "slash",
+      "id": 101,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 1464,
+      "adversarial": true,
+      "b_index": 1465,
+      "expected": "slash",
+      "id": 102,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1472,
+      "adversarial": true,
+      "b_index": 1473,
+      "expected": "slash",
+      "id": 103,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1480,
+      "adversarial": true,
+      "b_index": 1481,
+      "expected": "slash",
+      "id": 104,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 1512,
+      "adversarial": true,
+      "b_index": 1513,
+      "expected": "slash",
+      "id": 105,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1526,
+      "adversarial": true,
+      "b_index": 1527,
+      "expected": "slash",
+      "id": 106,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 1546,
+      "adversarial": false,
+      "b_index": 1547,
+      "expected": "bottom",
+      "id": 107,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 1596,
+      "adversarial": true,
+      "b_index": 1597,
+      "expected": "slash",
+      "id": 108,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 1604,
+      "adversarial": true,
+      "b_index": 1605,
+      "expected": "slash",
+      "id": 109,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1642,
+      "adversarial": true,
+      "b_index": 1643,
+      "expected": "slash",
+      "id": 110,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1674,
+      "adversarial": true,
+      "b_index": 1675,
+      "expected": "slash",
+      "id": 111,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1688,
+      "adversarial": true,
+      "b_index": 1689,
+      "expected": "slash",
+      "id": 112,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1708,
+      "adversarial": true,
+      "b_index": 1709,
+      "expected": "slash",
+      "id": 113,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 1716,
+      "adversarial": true,
+      "b_index": 1717,
+      "expected": "slash",
+      "id": 114,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1748,
+      "adversarial": true,
+      "b_index": 1749,
+      "expected": "slash",
+      "id": 115,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1756,
+      "adversarial": true,
+      "b_index": 1757,
+      "expected": "slash",
+      "id": 116,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 1770,
+      "adversarial": true,
+      "b_index": 1771,
+      "expected": "slash",
+      "id": 117,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1778,
+      "adversarial": true,
+      "b_index": 1779,
+      "expected": "slash",
+      "id": 118,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 1786,
+      "adversarial": true,
+      "b_index": 1787,
+      "expected": "slash",
+      "id": 119,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1800,
+      "adversarial": true,
+      "b_index": 1801,
+      "expected": "slash",
+      "id": 120,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1814,
+      "adversarial": true,
+      "b_index": 1815,
+      "expected": "slash",
+      "id": 121,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 1822,
+      "adversarial": true,
+      "b_index": 1823,
+      "expected": "slash",
+      "id": 122,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1830,
+      "adversarial": true,
+      "b_index": 1831,
+      "expected": "slash",
+      "id": 123,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1844,
+      "adversarial": true,
+      "b_index": 1845,
+      "expected": "slash",
+      "id": 124,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1876,
+      "adversarial": true,
+      "b_index": 1877,
+      "expected": "slash",
+      "id": 125,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 1890,
+      "adversarial": true,
+      "b_index": 1891,
+      "expected": "slash",
+      "id": 126,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1916,
+      "adversarial": true,
+      "b_index": 1917,
+      "expected": "slash",
+      "id": 127,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1924,
+      "adversarial": true,
+      "b_index": 1925,
+      "expected": "slash",
+      "id": 128,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 1932,
+      "adversarial": true,
+      "b_index": 1933,
+      "expected": "slash",
+      "id": 129,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 1946,
+      "adversarial": true,
+      "b_index": 1947,
+      "expected": "slash",
+      "id": 130,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 1954,
+      "adversarial": true,
+      "b_index": 1955,
+      "expected": "slash",
+      "id": 131,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 1962,
+      "adversarial": true,
+      "b_index": 1963,
+      "expected": "slash",
+      "id": 132,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 1970,
+      "adversarial": true,
+      "b_index": 1971,
+      "expected": "slash",
+      "id": 133,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 1984,
+      "adversarial": true,
+      "b_index": 1985,
+      "expected": "slash",
+      "id": 134,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 1992,
+      "adversarial": true,
+      "b_index": 1993,
+      "expected": "slash",
+      "id": 135,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2006,
+      "adversarial": true,
+      "b_index": 2007,
+      "expected": "slash",
+      "id": 136,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 2020,
+      "adversarial": true,
+      "b_index": 2021,
+      "expected": "slash",
+      "id": 137,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 2034,
+      "adversarial": true,
+      "b_index": 2035,
+      "expected": "slash",
+      "id": 138,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 2042,
+      "adversarial": true,
+      "b_index": 2043,
+      "expected": "slash",
+      "id": 139,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 2050,
+      "adversarial": true,
+      "b_index": 2051,
+      "expected": "slash",
+      "id": 140,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 2064,
+      "adversarial": true,
+      "b_index": 2065,
+      "expected": "slash",
+      "id": 141,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 2072,
+      "adversarial": true,
+      "b_index": 2073,
+      "expected": "slash",
+      "id": 142,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2092,
+      "adversarial": true,
+      "b_index": 2093,
+      "expected": "slash",
+      "id": 143,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 2112,
+      "adversarial": true,
+      "b_index": 2113,
+      "expected": "slash",
+      "id": 144,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2120,
+      "adversarial": true,
+      "b_index": 2121,
+      "expected": "slash",
+      "id": 145,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 2134,
+      "adversarial": true,
+      "b_index": 2135,
+      "expected": "slash",
+      "id": 146,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2154,
+      "adversarial": true,
+      "b_index": 2155,
+      "expected": "slash",
+      "id": 147,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 2162,
+      "adversarial": true,
+      "b_index": 2163,
+      "expected": "slash",
+      "id": 148,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 2170,
+      "adversarial": true,
+      "b_index": 2171,
+      "expected": "slash",
+      "id": 149,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 2184,
+      "adversarial": true,
+      "b_index": 2185,
+      "expected": "slash",
+      "id": 150,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 2192,
+      "adversarial": true,
+      "b_index": 2193,
+      "expected": "slash",
+      "id": 151,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2224,
+      "adversarial": true,
+      "b_index": 2225,
+      "expected": "slash",
+      "id": 152,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2256,
+      "adversarial": true,
+      "b_index": 2257,
+      "expected": "slash",
+      "id": 153,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2264,
+      "adversarial": true,
+      "b_index": 2265,
+      "expected": "slash",
+      "id": 154,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2284,
+      "adversarial": true,
+      "b_index": 2285,
+      "expected": "slash",
+      "id": 155,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 2292,
+      "adversarial": true,
+      "b_index": 2293,
+      "expected": "slash",
+      "id": 156,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2312,
+      "adversarial": false,
+      "b_index": 2313,
+      "expected": "bottom",
+      "id": 157,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 2320,
+      "adversarial": true,
+      "b_index": 2321,
+      "expected": "slash",
+      "id": 158,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 2328,
+      "adversarial": true,
+      "b_index": 2329,
+      "expected": "slash",
+      "id": 159,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 2336,
+      "adversarial": true,
+      "b_index": 2337,
+      "expected": "slash",
+      "id": 160,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 2374,
+      "adversarial": true,
+      "b_index": 2375,
+      "expected": "slash",
+      "id": 161,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2382,
+      "adversarial": true,
+      "b_index": 2383,
+      "expected": "slash",
+      "id": 162,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 2396,
+      "adversarial": true,
+      "b_index": 2397,
+      "expected": "slash",
+      "id": 163,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2404,
+      "adversarial": true,
+      "b_index": 2405,
+      "expected": "slash",
+      "id": 164,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 2418,
+      "adversarial": true,
+      "b_index": 2419,
+      "expected": "slash",
+      "id": 165,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 2426,
+      "adversarial": true,
+      "b_index": 2427,
+      "expected": "slash",
+      "id": 166,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2458,
+      "adversarial": true,
+      "b_index": 2459,
+      "expected": "slash",
+      "id": 167,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 2466,
+      "adversarial": true,
+      "b_index": 2467,
+      "expected": "slash",
+      "id": 168,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2474,
+      "adversarial": true,
+      "b_index": 2475,
+      "expected": "slash",
+      "id": 169,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 2482,
+      "adversarial": true,
+      "b_index": 2483,
+      "expected": "slash",
+      "id": 170,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 2490,
+      "adversarial": true,
+      "b_index": 2491,
+      "expected": "slash",
+      "id": 171,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 2498,
+      "adversarial": true,
+      "b_index": 2499,
+      "expected": "slash",
+      "id": 172,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 2506,
+      "adversarial": true,
+      "b_index": 2507,
+      "expected": "slash",
+      "id": 173,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 2520,
+      "adversarial": false,
+      "b_index": 2521,
+      "expected": "bottom",
+      "id": 174,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 2528,
+      "adversarial": true,
+      "b_index": 2529,
+      "expected": "slash",
+      "id": 175,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 2542,
+      "adversarial": false,
+      "b_index": 2543,
+      "expected": "bottom",
+      "id": 176,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 2562,
+      "adversarial": true,
+      "b_index": 2563,
+      "expected": "slash",
+      "id": 177,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 2570,
+      "adversarial": true,
+      "b_index": 2571,
+      "expected": "slash",
+      "id": 178,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2608,
+      "adversarial": true,
+      "b_index": 2609,
+      "expected": "slash",
+      "id": 179,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 2622,
+      "adversarial": true,
+      "b_index": 2623,
+      "expected": "slash",
+      "id": 180,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 2660,
+      "adversarial": true,
+      "b_index": 2661,
+      "expected": "slash",
+      "id": 181,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 2692,
+      "adversarial": true,
+      "b_index": 2693,
+      "expected": "slash",
+      "id": 182,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 2706,
+      "adversarial": true,
+      "b_index": 2707,
+      "expected": "slash",
+      "id": 183,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 2714,
+      "adversarial": true,
+      "b_index": 2715,
+      "expected": "slash",
+      "id": 184,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 2722,
+      "adversarial": true,
+      "b_index": 2723,
+      "expected": "slash",
+      "id": 185,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2730,
+      "adversarial": true,
+      "b_index": 2731,
+      "expected": "slash",
+      "id": 186,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2744,
+      "adversarial": false,
+      "b_index": 2745,
+      "expected": "bottom",
+      "id": 187,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 2770,
+      "adversarial": false,
+      "b_index": 2771,
+      "expected": "bottom",
+      "id": 188,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 2796,
+      "adversarial": true,
+      "b_index": 2797,
+      "expected": "slash",
+      "id": 189,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 2810,
+      "adversarial": true,
+      "b_index": 2811,
+      "expected": "slash",
+      "id": 190,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 2818,
+      "adversarial": true,
+      "b_index": 2819,
+      "expected": "slash",
+      "id": 191,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 2832,
+      "adversarial": true,
+      "b_index": 2833,
+      "expected": "slash",
+      "id": 192,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 2840,
+      "adversarial": true,
+      "b_index": 2841,
+      "expected": "slash",
+      "id": 193,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 2866,
+      "adversarial": true,
+      "b_index": 2867,
+      "expected": "slash",
+      "id": 194,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 2892,
+      "adversarial": true,
+      "b_index": 2893,
+      "expected": "slash",
+      "id": 195,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 2900,
+      "adversarial": true,
+      "b_index": 2901,
+      "expected": "slash",
+      "id": 196,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 2908,
+      "adversarial": true,
+      "b_index": 2909,
+      "expected": "slash",
+      "id": 197,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2922,
+      "adversarial": false,
+      "b_index": 2923,
+      "expected": "bottom",
+      "id": 198,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 2936,
+      "adversarial": true,
+      "b_index": 2937,
+      "expected": "slash",
+      "id": 199,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 2944,
+      "adversarial": true,
+      "b_index": 2945,
+      "expected": "slash",
+      "id": 200,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 2964,
+      "adversarial": true,
+      "b_index": 2965,
+      "expected": "slash",
+      "id": 201,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 2972,
+      "adversarial": true,
+      "b_index": 2973,
+      "expected": "slash",
+      "id": 202,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 2980,
+      "adversarial": true,
+      "b_index": 2981,
+      "expected": "slash",
+      "id": 203,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 2994,
+      "adversarial": true,
+      "b_index": 2995,
+      "expected": "slash",
+      "id": 204,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 3020,
+      "adversarial": false,
+      "b_index": 3021,
+      "expected": "bottom",
+      "id": 205,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 3034,
+      "adversarial": true,
+      "b_index": 3035,
+      "expected": "slash",
+      "id": 206,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 3042,
+      "adversarial": true,
+      "b_index": 3043,
+      "expected": "slash",
+      "id": 207,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 3050,
+      "adversarial": true,
+      "b_index": 3051,
+      "expected": "slash",
+      "id": 208,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 3058,
+      "adversarial": true,
+      "b_index": 3059,
+      "expected": "slash",
+      "id": 209,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 3066,
+      "adversarial": true,
+      "b_index": 3067,
+      "expected": "slash",
+      "id": 210,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 3074,
+      "adversarial": true,
+      "b_index": 3075,
+      "expected": "slash",
+      "id": 211,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 3100,
+      "adversarial": true,
+      "b_index": 3101,
+      "expected": "slash",
+      "id": 212,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 3114,
+      "adversarial": true,
+      "b_index": 3115,
+      "expected": "slash",
+      "id": 213,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 3122,
+      "adversarial": true,
+      "b_index": 3123,
+      "expected": "slash",
+      "id": 214,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 3142,
+      "adversarial": true,
+      "b_index": 3143,
+      "expected": "slash",
+      "id": 215,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 3150,
+      "adversarial": true,
+      "b_index": 3151,
+      "expected": "slash",
+      "id": 216,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 3164,
+      "adversarial": false,
+      "b_index": 3165,
+      "expected": "bottom",
+      "id": 217,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 3178,
+      "adversarial": true,
+      "b_index": 3179,
+      "expected": "slash",
+      "id": 218,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 3186,
+      "adversarial": true,
+      "b_index": 3187,
+      "expected": "slash",
+      "id": 219,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 3200,
+      "adversarial": true,
+      "b_index": 3201,
+      "expected": "slash",
+      "id": 220,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 3208,
+      "adversarial": true,
+      "b_index": 3209,
+      "expected": "slash",
+      "id": 221,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 3216,
+      "adversarial": true,
+      "b_index": 3217,
+      "expected": "slash",
+      "id": 222,
+      "kappa": "spatial"
+    },
+    {
+      "a_index": 3224,
+      "adversarial": true,
+      "b_index": 3225,
+      "expected": "slash",
+      "id": 223,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 3238,
+      "adversarial": true,
+      "b_index": 3239,
+      "expected": "slash",
+      "id": 224,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 3258,
+      "adversarial": false,
+      "b_index": 3259,
+      "expected": "bottom",
+      "id": 225,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 3296,
+      "adversarial": true,
+      "b_index": 3297,
+      "expected": "slash",
+      "id": 226,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 3310,
+      "adversarial": false,
+      "b_index": 3311,
+      "expected": "bottom",
+      "id": 227,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 3330,
+      "adversarial": true,
+      "b_index": 3331,
+      "expected": "slash",
+      "id": 228,
+      "kappa": "quality"
+    },
+    {
+      "a_index": 3344,
+      "adversarial": true,
+      "b_index": 3345,
+      "expected": "slash",
+      "id": 229,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 3352,
+      "adversarial": false,
+      "b_index": 3353,
+      "expected": "bottom",
+      "id": 230,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 3360,
+      "adversarial": true,
+      "b_index": 3361,
+      "expected": "slash",
+      "id": 231,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 3380,
+      "adversarial": true,
+      "b_index": 3381,
+      "expected": "slash",
+      "id": 232,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 3400,
+      "adversarial": true,
+      "b_index": 3401,
+      "expected": "slash",
+      "id": 233,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 3414,
+      "adversarial": true,
+      "b_index": 3415,
+      "expected": "slash",
+      "id": 234,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 3422,
+      "adversarial": true,
+      "b_index": 3423,
+      "expected": "slash",
+      "id": 235,
+      "kappa": "regulatory"
+    },
+    {
+      "a_index": 3430,
+      "adversarial": false,
+      "b_index": 3431,
+      "expected": "bottom",
+      "id": 236,
+      "kappa": "quantity"
+    },
+    {
+      "a_index": 3438,
+      "adversarial": true,
+      "b_index": 3439,
+      "expected": "slash",
+      "id": 237,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 3464,
+      "adversarial": true,
+      "b_index": 3465,
+      "expected": "slash",
+      "id": 238,
+      "kappa": "temporal"
+    },
+    {
+      "a_index": 3478,
+      "adversarial": true,
+      "b_index": 3479,
+      "expected": "slash",
+      "id": 239,
+      "kappa": "spatial"
+    }
+  ],
+  "nEvents": 3480,
+  "schemaVersion": "1.0"
+}

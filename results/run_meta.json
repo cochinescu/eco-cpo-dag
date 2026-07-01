@@ -1,0 +1,71 @@
+{
+  "seed": 0,
+  "quick": false,
+  "coverage_params": {
+    "n_participants": 6,
+    "n_subjects": 120,
+    "base_events_per_subject": 5,
+    "injection_rate": 0.6
+  },
+  "storage_params": {
+    "n_participants": 6,
+    "n_subjects": 400,
+    "base_events_per_subject": 6,
+    "injection_rate": 0.2
+  },
+  "trials": 10,
+  "sampling_fraction": 0.5,
+  "pmin": {
+    "p_hat": 0.501358695652174,
+    "ci": [
+      0.46532240020373333,
+      0.537380881147302
+    ],
+    "successes": 369,
+    "n": 736,
+    "fraction": 0.5
+  },
+  "control": {
+    "cpos": 0,
+    "false_positives": 0,
+    "n_events": 600,
+    "cpos_per_honest_event": 0.0
+  },
+  "breakdown": {
+    "self_equivocation": 52,
+    "monotonic": 7,
+    "bottom": 11,
+    "slash_total": 59,
+    "false_slashes": 0,
+    "false_positives": 0,
+    "produced_cpos": 280,
+    "true_positive_cpos": 280,
+    "precision": 1.0,
+    "n_injected": 70,
+    "n_detected": 70,
+    "by_class": {
+      "spatial": {
+        "slash": 11,
+        "bottom": 0
+      },
+      "quantity": {
+        "slash": 7,
+        "bottom": 11
+      },
+      "regulatory": {
+        "slash": 13,
+        "bottom": 0
+      },
+      "temporal": {
+        "slash": 17,
+        "bottom": 0
+      },
+      "quality": {
+        "slash": 11,
+        "bottom": 0
+      }
+    }
+  },
+  "bytes_per_object_mean": 211.92661982825916,
+  "n_storage_objects": 2562
+}

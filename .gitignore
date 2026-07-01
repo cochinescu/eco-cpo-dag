@@ -1,0 +1,20 @@
+# Python environment / caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+
+# OS
+.DS_Store
+
+# committed on purpose (they ARE the artifact record):
+#   results/        — measured RESULTS.md, CSVs, PNGs, run_meta.json
+#   benchmark/v1.0/ — the frozen, citable dataset
