@@ -1,9 +1,9 @@
 # ECO/CPO-DAG — Prototype & Measured Evaluation
 
-This folder holds the build and evaluation instructions for turning the paper
-from an analytical/position paper into a **prototype + measured evaluation** —
-the single biggest lever for citability. It is intentionally separate from the
-paper (`../ECO_CPO_DAG_paper.md`) and the plan (`../planning-docs/PLAN.md`).
+This repository holds the reference implementation, measured evaluation, and
+benchmark for the paper *"ECO/CPO-DAG: A Contradiction-Based Accountability
+Layer for Adversarial Supply Chains"* (Sebastian Cochinescu, University of
+Bucharest). See **Artifacts & citation** at the end for DOIs.
 
 **Key framing:** this is a *single-machine simulation plus microbenchmarks*, not
 a real multi-party deployment. No collaborators, adopters, or live supply chain
@@ -13,7 +13,7 @@ Every number produced here replaces a "model output (not measured)" claim in the
 paper's §7–§8. Until then the paper's abstract must keep saying "no implementation
 or empirical evaluation is claimed."
 
-> **Implementation status:** M1–M4 of this plan are built and test-driven in the
+> **Implementation status:** all milestones (M1–M5) are complete; the measured numbers are folded into the paper's §8.4. Built and test-driven in the
 > `ecodag/` package (Python lane). See **[BUILD.md](BUILD.md)** for setup, tests,
 > the one-command reproduction, and the module map. Measured numbers land in
 > `results/RESULTS.md`.
@@ -131,7 +131,7 @@ prototype/
 - **Secure at least one public/real EPCIS 2.0 trace** (e.g. a GS1 sample
   document) and run storage + coverage on it. This is elevated from "if
   available" to a target: single-synthetic-generator numbers have weak external
-  validity, and a real-structure run is the biggest citation lever after the
+  validity, and a real-structure run is the most valuable external-validity extension after the
   measured-vs-model overlay. If no real trace can be obtained, say so explicitly
   in `RESULTS.md` and label every number synthetic.
 - Provide a knob to **inject each contradiction class** at a controllable rate so
@@ -204,8 +204,8 @@ the paper. Measurement 5 is a cheap instrumentation output, not a figure.
    `p̂_min` is itself an estimate with sampling error, and the prediction raises it
    to the h-th power, so **propagate that error — the predicted curve is a band,
    not a line**; (iv) state the agreement criterion up front (e.g. "predicted band
-   overlaps the measured CI at every h"). Without (i)–(iv) the headline figure —
-   the single strongest citation lever — is not publishable.
+   overlaps the measured CI at every h"). Without (i)–(iv) the headline figure
+   is not publishable.
 
    The two sweeps (over h, and over candidate-pair sampling fraction) are two
    separate runs, but they form the two panels of the single Figure 4 replacement
@@ -268,8 +268,8 @@ directly.
 4. **M4 — benchmarks + figures.** Produce the 4 headline figures (plus the
    supplementary Fig 1b scan-time plot) and their CSVs; write a short
    `results/RESULTS.md`.
-4.5. **M4.5 — package the EPCIS contradiction benchmark as a standalone artifact
-   (the top citation lever beyond the paper).** Datasets/benchmarks get cited far
+4.5. **M4.5 — package the EPCIS contradiction benchmark as a standalone,
+   independently citable artifact.** Datasets/benchmarks are reused far
    more than one-off systems, and you already build ~90% of it in `trace.rs` +
    injection + ground-truth labels — this is repackaging, not new research.
    Do it **after M4** (once traces + injection are stable), never before; do not
@@ -338,15 +338,15 @@ directly.
   third party can score an external detector against it without touching this
   repo's Rust.
 
-## 8. Publication hook (after M5)
+## 8. Artifacts & citation
 
-- Tag the repo, mint a **Zenodo DOI**, cite it in the paper's reproducibility
-  paragraph.
-- Give the **M4.5 benchmark its own Zenodo DOI** (separate from the code repo
-  DOI) so it is independently citable and discoverable — the artifact is a
-  citation lever precisely when others can cite it without citing the whole
-  system. Reference it from the paper's evaluation/reproducibility section.
-- Post the fixed paper to **IACR ePrint**, then submit to a blockchain/security
-  venue. Note: IEEE ICBC 2026 has passed (Jan 2026 deadline); the realistic
-  target is **ICBC 2027** (~Jan 2027 deadline expected) or a nearer-deadline
-  workshop. See `../planning-docs/PLAN.md` Step 3.
+- **Code (this repository):** archived on Zenodo — concept DOI
+  [10.5281/zenodo.21114383](https://doi.org/10.5281/zenodo.21114383)
+  (always resolves to the latest version).
+- **EPCIS contradiction benchmark:** independently citable dataset —
+  [10.5281/zenodo.21114601](https://doi.org/10.5281/zenodo.21114601)
+  (see [`benchmark/`](benchmark/) for format and scorer).
+- **Paper preprint:** arXiv (cs.CR), ID to be added on announcement.
+
+If you use the code or the benchmark, please cite the paper and the
+corresponding DOI above.
