@@ -8,8 +8,8 @@ authors:
     affiliation: University of Bucharest
     orcid: "https://orcid.org/0009-0006-1436-4819"
 license: MIT
-version: 1.0.2
-date-released: 2026-07-01
+version: 1.0.4
+date-released: 2026-07-09
 repository-code: "https://github.com/cochinescu/eco-cpo-dag"
 keywords:
   - supply chain accountability
@@ -17,3 +17,15 @@ keywords:
   - GS1 EPCIS
   - provenance
   - zero-knowledge proofs
+preferred-citation:
+  type: article
+  title: "ECO/CPO-DAG: A Contradiction-Based Accountability Layer for Adversarial Supply Chains"
+  authors:
+    - family-names: Cochinescu
+      given-names: Sebastian
+      affiliation: University of Bucharest
+      orcid: "https://orcid.org/0009-0006-1436-4819"
+  year: 2026
+  journal: "arXiv preprint arXiv:2607.06804"
+  doi: "10.48550/arXiv.2607.06804"
+  url: "https://arxiv.org/abs/2607.06804"

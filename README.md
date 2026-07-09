@@ -346,7 +346,9 @@ directly.
 - **EPCIS contradiction benchmark:** independently citable dataset —
   [10.5281/zenodo.21114601](https://doi.org/10.5281/zenodo.21114601)
   (see [`benchmark/`](benchmark/) for format and scorer).
-- **Paper preprint:** arXiv (cs.CR), ID to be added on announcement.
+- **Paper preprint:** *ECO/CPO-DAG: A Contradiction-Based Accountability Layer
+  for Adversarial Supply Chains*, arXiv:[2607.06804](https://arxiv.org/abs/2607.06804)
+  (cs.CR, cross-listed cs.DC).
 
 If you use the code or the benchmark, please cite the paper and the
 corresponding DOI above.
